@@ -19,3 +19,15 @@ Ce Dataset contient 13 colonnes:
 * alcohol
 * wine_type (rouge: 0, blanc: 1)
 * target (disponible uniquement sur le dataset d'entraînement
+
+Les données sont loadées depuis le github repository et le notebook jupyter vient récupérer les données dans le folder data.
+
+### Modèles développés
+
+Le rapport commence par analyser les données et à essayer d'améliorer la qualité du dataset pour améliorer les performances du modèle.
+Les modèles développés lors de ce challenge sont:
+* Linear regression
+* RandomForest
+* XGBBoost
+* Lgbm
+
