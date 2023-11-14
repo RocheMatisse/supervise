@@ -13,4 +13,10 @@
 * label - object class (0 : galaxy, 1 : star, 2 : quasar object)
 * redshift - redshift value based on the increase in wavelength
 
-## Mo
+## Modèles développés
+* Regressionlogistique
+* Kplusprochesvoisins
+* SVM (SupportVectorMachine)
+* RandomForest
+* Gradientboosting
+* Agrégatsd’Experts
